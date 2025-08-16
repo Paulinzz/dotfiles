@@ -12,6 +12,7 @@ Principais Configurações pessoais para arch linux com Hyprland.
 ![Nvim](imagens/nvim.png)
 ## Ferramentas
 ![Ferramentas](imagens/ferramentas.png)
+(btop, cmatrix, cava)
 
 # 📦 Dependências
 
