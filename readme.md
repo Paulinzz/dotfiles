@@ -145,7 +145,6 @@ Antes de usar, instale os seguintes pacotes:
 
 ## Referências
 - [Hyprland Wiki](https://wiki.hypr.land/)
-- 
 - [GitHub Waybar](https://github.com/Alexays/Waybar)
 - [Waybar references](https://gitlab.com/stephan-raabe/dotfiles)
 - [fastfetch references](https://github.com/fastfetch-cli/fastfetch)
