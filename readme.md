@@ -145,8 +145,10 @@ Antes de usar, instale os seguintes pacotes:
 
 ## Referências
 - [Hyprland Wiki](https://wiki.hypr.land/)
+- 
 - [GitHub Waybar](https://github.com/Alexays/Waybar)
 - [Waybar references](https://gitlab.com/stephan-raabe/dotfiles)
+- [fastfetch references](https://github.com/fastfetch-cli/fastfetch)
 - [Unixporn](https://www.reddit.com/r/unixporn/)
 - [Hyprland Config Keywords](https://wiki.hyprland.org/Configuring/Keywords/)
 - [Hyprland Binds](https://wiki.hyprland.org/Configuring/Binds/)
